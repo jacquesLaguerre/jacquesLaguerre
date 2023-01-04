@@ -2,6 +2,7 @@
 
 #  👨🏾‍💻Tech passionate | 👨🏾‍🎨 Creator
 
+- ☕️ Currenty learning JAVA
 - 💻 My computer is my canvas.
 - 📚 I enjoy learning and buidling projects.
 - 🤝I’m looking forward to collaborate and work on cool projects ...
